@@ -9,4 +9,4 @@ Make sure the course data file is in the same folder as the program so it can fi
 Build the solution (Ctrl+Shift+B), then run it (Ctrl+F5).
 Use the on-screen menu to load the data, print the full sorted course list, or look up a single course and its prerequisites.
 
-![Sample output](output.png)
+[Sample output](output.png)
